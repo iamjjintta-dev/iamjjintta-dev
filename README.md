@@ -1,6 +1,6 @@
 
 # 흔한 찐따의 GitHub 프로필
-- @iam-jjintta
+- [@iam-jjintta](https://github.com/iam-jjintta)
 
 <!--
 - 👋 Hi, I’m @iamjjintta-dev
